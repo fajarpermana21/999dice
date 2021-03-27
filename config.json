@@ -1,8 +1,8 @@
 {
 
  "Account": {
-"Username": "",
-     "Password": ""
+"Username": "pajarpp",
+     "Password": "251096Fajar"
      },
  "Target Profit": "2000",
  "Target Win": "500000",
@@ -13,7 +13,7 @@
  "Config": [{
 
      "Name Bet Set": "Mining",
-     "Base Bet": "0.01",
+     "Base Bet": "0.001",
      "Max Bet": "OFF",
      "Chance": "49.25",
      "Random Chance": {
